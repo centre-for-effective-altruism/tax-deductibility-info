@@ -1,4 +1,4 @@
 ---
 countryCode: UK
 ---
-Country-specific info about Tax Deductions e.g. GiftAid
+Country-specific info about Tax Deductions e.g. GiftAid etc
