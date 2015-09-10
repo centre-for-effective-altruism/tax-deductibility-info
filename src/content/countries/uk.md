@@ -1,4 +1,4 @@
 ---
 countryCode: UK
 ---
-Country-specific info about Tax Deductions e.g. GiftAid etc
+In the UK, Gift Aid adds 25% to your donation. The charity you donate to will receive 25% extra money from the government.
